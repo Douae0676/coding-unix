@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Programme : guessinggame.sh
-# Auteur : Salma Elfirdoussi
+# Auteur : Chahrour Douae
 # Description : L'utilisateur doit deviner combien de fichiers se trouvent dans le répertoire actuel.
 
 # Fonction pour compter les fichiers
